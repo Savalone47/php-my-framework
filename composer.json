@@ -1,0 +1,17 @@
+{
+    "name": "savalone47/php-my-framework",
+    "description": "mini framework with php",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Savalone47\\PhpMyFramework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "savalone47",
+            "email": "15yn450@esisalama.org"
+        }
+    ],
+    "require": {}
+}
